@@ -2,4 +2,4 @@
 Just another repository
 
 Hello, 
-This is a new comment 
+This is a new comment for Master
